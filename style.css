@@ -15,6 +15,10 @@ section{
     margin: 50px auto;
 }
 
+button{
+    outline: none;
+}
+
 
 .cell{
     background-color: rgb(39, 37, 37);
@@ -27,7 +31,6 @@ section{
     cursor: pointer;
     line-height: 100px;
     font-size: 60px;
-    outline: none;
 }
 
 a {
