@@ -22,7 +22,7 @@ section{
     font-family: 'Rock Salt', cursive;
     width: 100px;
     height: 100px;
-    /* box-shadow: 0 0 0 2px cornsilk; */
+    box-shadow: 0 0 0 2px cornsilk;
     border: 2px solid cornsilk;
     cursor: pointer;
     line-height: 100px;
@@ -30,7 +30,7 @@ section{
 }
 
 a {
-    color: cornflowerblue;
+    color: pink;
 }
  
 .game-title {
